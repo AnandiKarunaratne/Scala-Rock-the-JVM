@@ -1,4 +1,4 @@
-package com.rockthejvm
+package main.scala.com.rockthejvm
 
 object ObjectOrientation extends App {
   // java equivalent: public static void main (String[] args)

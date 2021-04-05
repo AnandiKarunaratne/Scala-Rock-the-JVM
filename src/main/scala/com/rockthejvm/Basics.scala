@@ -1,4 +1,4 @@
-package com.rockthejvm
+package main.scala.com.rockthejvm
 
 object Basics extends App {
 
